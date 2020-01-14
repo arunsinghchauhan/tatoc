@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22387" started-at="2020-01-14T14:48:02Z" finished-at="2020-01-14T14:48:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22387" started-at="2020-01-14T14:48:02Z" finished-at="2020-01-14T14:48:25Z">
+      <class name="com.qa.tatocEx.TatocTest">
+        <test-method status="PASS" signature="testlaunchBrowser()[pri:0, instance:com.qa.tatocEx.TatocTest@475530b9]" name="testlaunchBrowser" is-config="true" duration-ms="20557" started-at="2020-01-14T20:18:02Z" finished-at="2020-01-14T20:18:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlaunchBrowser -->
+        <test-method status="PASS" signature="testBasicCourse()[pri:0, instance:com.qa.tatocEx.TatocTest@475530b9]" name="testBasicCourse" duration-ms="1535" started-at="2020-01-14T20:18:23Z" finished-at="2020-01-14T20:18:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBasicCourse -->
+        <test-method status="PASS" signature="testClickOnGreenBox()[pri:0, instance:com.qa.tatocEx.TatocTest@475530b9]" name="testClickOnGreenBox" duration-ms="278" started-at="2020-01-14T20:18:24Z" finished-at="2020-01-14T20:18:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClickOnGreenBox -->
+      </class> <!-- com.qa.tatocEx.TatocTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
